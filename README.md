@@ -58,7 +58,7 @@ Não temos "equipe de inovação", buscamos contratar pessoas inovadoras para to
 - Entender os problemas que estamos tentando resolver e trabalhar de perto com outros engenheiros, gerentes de produto, designer de produtos e outras funções para definir, programar, iterar e entregar
 - Atuar em todo ciclo de vida do projeto: coleta de requisitos de negócios, especificações técnicas, desenvolvimento, teste e deployment
 - Atuar na estruturação de soluções, sendo ágil, analítico e proativo, desenvolvendo soluções de acordo com o padrão de qualidade e desempenho requisitados.
-- Contribuir para o desenvolvimento da nossa base de conhecimento, documentação da API e regras de négocio
+- Contribuir para o desenvolvimento da nossa base de conhecimento, documentação da API e regras de negócio
 - Precisamos que você faça boas análises, assumindo um papel de investigador e desvende cada incidente (bug) de forma detalhada.
 - Esperamos que você se preocupe com dimensões fundamentais da nossa plataforma, como segurança, custo, alta disponibilidade, escalabilidade e performance.
 - Contribuir para melhorar a execução das sprint, sugerindo formas de otimizar processos para remover gargalos
@@ -127,7 +127,7 @@ A área Produto é nossa área core, você será responsável por criar e oferec
 
 Hoje, nossa principal missão é revolucionar a maneira como as clínicas e consultórios médicos operam no Brasil, com inovação, automação e aumento da produtividade de todas suas rotinas da agenda médica à contabilidade.
 
-É seu papel entender a visão de produto e as necessidades dos seus clientes tanto internos como externos e levar isso até o lançamento de uma feature sempre mensurando resultados e impacto. Todo o fluxo de desenvolvimento do produto está em suas mão, você vai trabalhar tanto com desenvolvedores e designers para atingir esse objetivo e você deve garantir que os times envolvidos consigam entregar o melhor produto no final do projeto.
+É seu papel entender a visão de produto e as necessidades dos seus clientes tanto internos como externos e levar isso até o lançamento de uma feature sempre mensurando resultados e impacto. Todo o fluxo de desenvolvimento do produto está em suas mãos, você vai trabalhar tanto com desenvolvedores e designers para atingir esse objetivo e você deve garantir que os times envolvidos consigam entregar o melhor produto no final do projeto.
 
 **Principais responsabilidades e atribuições:**
 - Liderar a estruturação de soluções, ser ágil, analítico e proativo
@@ -208,7 +208,7 @@ Você vai trabalhar diretamente com produto SaaS para clínicas médicas e será
 - Registrar consistentemente as interações e informações relevantes sobre cada cliente, garantindo uma adequada gestão da informação
 - Garantir excelência na sua gestão de carteira de clientes seguindo os playbooks e processos estipulados, propondo melhorias quando necessário
 - Garantir que estamos respeitando todos os SLAs de tempo de resposta e prazo nos serviços prestados (vendas, suporte, produto, contabilidade, etc)
-- Análise das metricas de uso, certificando-se de que eles saibam dos recursos do sistema e que estão usando de forma adequada
+- Análise das métricas de uso, certificando-se de que eles saibam dos recursos do sistema e que estão usando de forma adequada
 
 **Requisitos e qualificações:**
 - Customer First, apaixonada por entregar um atendimento de valor aos clientes (e com experiência relevante nisso :)
@@ -269,7 +269,7 @@ Você vai trabalhar diretamente com produto SaaS para clínicas médicas e será
 
 ## Analista de Banco de Dados
 
-Você vai trabalhar diretamente com produto SaaS para clínicas médicas, atuando na análise, acompanhamento e implementação de novos processo de administração de banco de dados.
+Você vai trabalhar diretamente com produto SaaS para clínicas médicas, atuando na análise, acompanhamento e implementação de novos processos de administração de banco de dados.
 
 **Principais responsabilidades e atribuições:**
 - Auxiliar na administração de banco de dados, backups, replicação, clusters e tunning.
