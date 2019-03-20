@@ -212,15 +212,15 @@ Você vai trabalhar diretamente com produto SaaS para clínicas médicas e será
 - Análise das métricas de uso, certificando-se de que eles saibam dos recursos do sistema e que estão usando de forma adequada
 
 **Requisitos e qualificações:**
-- Customer First, apaixonada por entregar um atendimento de valor aos clientes (e com experiência relevante nisso :)
-- Lean: organizada e ágil para gerenciar volume de clientes, demandas distintas e manutenção dos registros de interações
+- Customer First, paixão por entregar um atendimento de valor aos clientes (e com experiência relevante nisso :)
+- Lean: organizado e ágil para gerenciar volume de clientes, demandas distintas e manutenção dos registros de interações
 - Excelentes habilidades de priorização, gerenciamento de tempo, além da capacidade de trabalhar com supervisão mínima
-- Didática e resiliente para saber orientar, engajar clientes nas estratégias e contornar eventuais obstáculos
+- Habilidades de didática e resiliência para saber orientar, engajar clientes nas estratégias e contornar eventuais obstáculos
 - Confortável em negociar, dialogar sobre negócios e influenciar pessoas tomadoras de decisão
 - Capaz de analisar diferentes cenários e criar estratégias que aumentem resultados
 - Capacidade de argumentar-se de forma assertiva fortalecendo as partes e favorecendo as relações
-- Team player, motivada por trabalhar em equipe para o atingimento de métricas
-- Ótima comunicadora, de forma verbal e escrita
+- Team player, motivado por trabalhar em equipe para o atingimento de métricas
+- Ótimas habilidades em comunicação verbal e escrita
 
 **Oferecemos:**
 - Salário variando de acordo com sua experiência
@@ -254,7 +254,7 @@ Você vai trabalhar diretamente com produto SaaS para clínicas médicas e será
 - Você deseja entregar o melhor nível de atendimento aos clientes
 - Você aprende rápido e facilmente se adapta a situações e prioridades em mudança
 - Você acredita em construir ótimos produtos e fazer um ótimo trabalho
-- Você está com fome e gosta de ser constantemente desafiado a aprender e fazer mais
+- Você gosta de ser constantemente desafiado a aprender e fazer mais
 - Gosta de processos/rotinas e tem interesse em aprimorá-los continuamente
 
 **Oferecemos:**
