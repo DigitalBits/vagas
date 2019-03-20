@@ -1,4 +1,4 @@
-[Versão em Português](../blob/master/README.md)
+[Versão em Português](../master/README.md)
 <p align="center"><img src="http://i63.tinypic.com/2v8n6ue.png"/></p>
 
 # DigitalBits is growing

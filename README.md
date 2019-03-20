@@ -1,4 +1,4 @@
-[English Version](../blob/master/README-EN.md)
+[English Version](../master/README-EN.md)
 <p align="center"><img src="http://i63.tinypic.com/2v8n6ue.png"/></p>
 
 # Estamos crescendo
